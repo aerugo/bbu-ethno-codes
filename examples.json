@@ -23,9 +23,9 @@
     "creator_id": 4,
     "created_at": "2020-05-12T20:37:29.435Z",
     "updated_at": "2020-05-12T20:37:29.435Z",
-    "ancestry": null,
+    "ancestry": "386",
     "annotations_count": 1,
-    "name_with_path": "Abnormal body",
+    "name_with_path": "body → Abnormal body",
     "names": [
       {
         "name": "Abnormal body",
@@ -42,7 +42,7 @@
     "updated_at": "2020-04-07T09:17:07.428Z",
     "ancestry": null,
     "annotations_count": 7,
-    "name_with_path": "Abnormal skin",
+    "name_with_path": "body → Abnormal skin",
     "names": [
       {
         "name": "Abnormal skin",
@@ -57,9 +57,9 @@
     "creator_id": 4,
     "created_at": "2020-05-12T20:39:54.956Z",
     "updated_at": "2020-05-12T20:39:54.956Z",
-    "ancestry": null,
+    "ancestry": "386",
     "annotations_count": 2,
-    "name_with_path": "Abnormal teeth",
+    "name_with_path": "body → Abnormal teeth",
     "names": [
       {
         "name": "Abnormal teeth",
