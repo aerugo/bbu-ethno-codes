@@ -110,7 +110,7 @@
         {
             "id": 334,
             "name": "Acceptance of fate",
-            "description": "Accepting ones role within ones life, accepting ones destiny/future, even if it holds unfortunate events. Future-related. \"\"So it is with the fact that I'm going to die.\"\" \",\".",
+            "description": "Accepting ones role within ones life, accepting ones destiny/future, even if it holds unfortunate events. Future-related. \"So it is with the fact that I'm going to die.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 5,
@@ -134,7 +134,7 @@
         {
             "id": 925,
             "name": "Acceptance of situation",
-            "description": "Accepting ones present situation, related to the present moment and a situation that has just occured \"\"We’re sort of used to each other.\"\" \",\".",
+            "description": "Accepting ones present situation, related to the present moment and a situation that has just occured \"We’re sort of used to each other.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -806,7 +806,7 @@
         {
             "id": 638,
             "name": "Arm",
-            "description": "Ur a thing designed to protect one from harm or physical damage.",
+            "description": "",
             "creator_id": 438,
             "ancestry": "386/651",
             "annotations_count": 2,
@@ -1466,7 +1466,7 @@
         {
             "id": 1416,
             "name": "Bittersweet",
-            "description": "Pleasure tinged with sadness or pain, Cause it's a bittersweet symphony this life Lets only use this when it is explicit?.",
+            "description": "Pleasure tinged with sadness or pain, Cause it's a bittersweet symphony this life Lets only use this when it is explicit?",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -2126,7 +2126,7 @@
         {
             "id": 745,
             "name": "Change of narrator",
-            "description": "A change of narrator telling the story. ?.",
+            "description": "A change of narrator telling the story. ?",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 6,
@@ -2450,7 +2450,7 @@
         {
             "id": 1080,
             "name": "Codependency",
-            "description": "Enabling the behaviours or patterns of another though ones own behaviour or patterns, for example \"\"I am low on adrenaline and he is low on purpose\"\" or \"\"besides, as he always worked late there was no reason for me to stay sober\"\".",
+            "description": "Enabling the behaviours or patterns of another though ones own behaviour or patterns, for example \"I am low on adrenaline and he is low on purpose\" or \"besides, as he always worked late there was no reason for me to stay sober\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 1,
@@ -2786,7 +2786,7 @@
         {
             "id": 461,
             "name": "Conflicting emotions",
-            "description": "Descriptions of conflicting emotions, like \"\"sweet and wrathful all at once\"\".",
+            "description": "Descriptions of conflicting emotions, like \"sweet and wrathful all at once\".",
             "creator_id": 5,
             "ancestry": "336",
             "annotations_count": 3,
@@ -2810,7 +2810,7 @@
         {
             "id": 465,
             "name": "Conflicting sensory input",
-            "description": "Experiences of seeing or hearing conflicting things, like \"\"Is that one eye, or a million eyes?\"\" or \"\"This morning the spider was on the wall. I held my gaze on it long enough that I couldn’t tell if it was moving or not\"\".",
+            "description": "Experiences of seeing or hearing conflicting things, like \"Is that one eye, or a million eyes?\" or \"This morning the spider was on the wall. I held my gaze on it long enough that I couldn’t tell if it was moving or not\".",
             "creator_id": 5,
             "ancestry": "336",
             "annotations_count": 2,
@@ -3110,7 +3110,7 @@
         {
             "id": 1206,
             "name": "Cruelty",
-            "description": "Descriptions of humans or animals being treated with cruelty, like the \"\"houndings and harrassments of peers\"\".",
+            "description": "Descriptions of humans or animals being treated with cruelty, like the \"houndings and harrassments of peers\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 7,
@@ -3374,7 +3374,7 @@
         {
             "id": 1446,
             "name": "Decolonization",
-            "description": "References to reclaiming a geography, culture, mythology from the dominion of colonizing culture. Predominantly used to signify undoing western colonization. Also used on implicit decolonizing language, like \"\"the Armenian goddess of fertility whose potency had long been forgotten by a Eurocentric world\"\".",
+            "description": "References to reclaiming a geography, culture, mythology from the dominion of colonizing culture. Predominantly used to signify undoing western colonization. Also used on implicit decolonizing language, like \"the Armenian goddess of fertility whose potency had long been forgotten by a Eurocentric world\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 2,
@@ -3530,7 +3530,7 @@
         {
             "id": 341,
             "name": "Desire for absolution",
-            "description": "Desire to be absolved of blame, to be purified, almost religious, related to \"\"pay penance\"\" but not really the same. The feeling a child has after having done something bad, and an adult has when looking at all the horrors of the world.",
+            "description": "Desire to be absolved of blame, to be purified, almost religious, related to \"pay penance\" but not really the same. The feeling a child has after having done something bad, and an adult has when looking at all the horrors of the world.",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 2,
@@ -3542,7 +3542,7 @@
         {
             "id": 375,
             "name": "Desire for another",
-            "description": "Desire for another human being, specifically another human. An urge to meet another person.  \"\"I just miss a pair of human eyes to look at me. \"\".",
+            "description": "Desire for another human being, specifically another human. An urge to meet another person.  \"I just miss a pair of human eyes to look at me. \".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 7,
@@ -4274,7 +4274,7 @@
         {
             "id": 712,
             "name": "Emptiness",
-            "description": "Explicit mentions of emptiness, voids and hollows, especially of objects and concepts that are not usually empty, like an \"\"empty mind\"\", an \"\"empty body\"\" or an \"\"empty word\"\".",
+            "description": "Explicit mentions of emptiness, voids and hollows, especially of objects and concepts that are not usually empty, like an \"empty mind\", an \"empty body\" or an \"empty word\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 5,
@@ -4562,7 +4562,7 @@
         {
             "id": 1272,
             "name": "Explanatory reveal",
-            "description": "A sentence explaining a lot of things, which turns parts of the story around, and is explicitly intended to change/add a lot to the narrative \"\"Brometheus, thus, is a parasitic vessel carrying an illicit gift for mankind.\"\".",
+            "description": "A sentence explaining a lot of things, which turns parts of the story around, and is explicitly intended to change/add a lot to the narrative \"Brometheus, thus, is a parasitic vessel carrying an illicit gift for mankind.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 6,
@@ -5042,7 +5042,7 @@
         {
             "id": 1437,
             "name": "Finding information",
-            "description": "Processing, researching, learning, spying on something or someones background and past history \"\"he stalked her profiles until he found some clues about where she grew up. \"\".",
+            "description": "Processing, researching, learning, spying on something or someones background and past history \"he stalked her profiles until he found some clues about where she grew up. \".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -5306,7 +5306,7 @@
         {
             "id": 1365,
             "name": "Fulfilled dreams",
-            "description": "Having ones dreams coming true, e.g: \"\"Their dreams had come true. They found love in a hopeless place.\"\"\",\".",
+            "description": "Having ones dreams coming true, e.g: \"Their dreams had come true. They found love in a hopeless place.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -5810,7 +5810,7 @@
         {
             "id": 1332,
             "name": "Hakawati",
-            "description": "Hakawati from \"\"The Case of the Severely Misinformed God\"\".",
+            "description": "Hakawati from \"The Case of the Severely Misinformed God\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 9,
@@ -6566,7 +6566,7 @@
         {
             "id": 1472,
             "name": "Indefinite agency",
-            "description": "An undefined agency pertaining to a particular group or object. As in \"\"Children cannot break silence like that.\".",
+            "description": "An undefined agency pertaining to a particular group or object. As in \"Children cannot break silence like that.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -6590,7 +6590,7 @@
         {
             "id": 1354,
             "name": "Indifferent nature",
-            "description": "Nature as indifferent to outcome, often relating to a nihilistic view of the world, like \"\"stuck alone on a tiny piece of flotsam in the middle of a gigantic body of water that cares nothing for whether I live or die\"\".",
+            "description": "Nature as indifferent to outcome, often relating to a nihilistic view of the world, like \"stuck alone on a tiny piece of flotsam in the middle of a gigantic body of water that cares nothing for whether I live or die\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 2,
@@ -6638,7 +6638,7 @@
         {
             "id": 1087,
             "name": "Infrastructure",
-            "description": "Descriptions of infrastructure, \"\"streets and lanes, highways, gutters and lights leading from suburb to city\"\".",
+            "description": "Descriptions of infrastructure, \"streets and lanes, highways, gutters and lights leading from suburb to city\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 3,
@@ -6662,7 +6662,7 @@
         {
             "id": 160,
             "name": "Insect-like",
-            "description": "Like an insect  \"\"She looks like a moth.\"\".",
+            "description": "Like an insect  \"She looks like a moth.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 3,
@@ -6758,7 +6758,7 @@
         {
             "id": 1325,
             "name": "Intense",
-            "description": "Fear An expression of intense primal fear like \"\"Gavin is screeching\"\" in the context of the previous event where Gavin starts screaming, “get off, get off! I need security, someone is literally chewing through my cables like a rat! Security!”.",
+            "description": "Fear An expression of intense primal fear like \"Gavin is screeching\" in the context of the previous event where Gavin starts screaming, “get off, get off! I need security, someone is literally chewing through my cables like a rat! Security!”.",
             "creator_id": 438,
             "ancestry": "1193",
             "annotations_count": 1,
@@ -6770,7 +6770,7 @@
         {
             "id": 462,
             "name": "Intense fear",
-            "description": "An expression of intense primal fear like \"\"Gavin is screeching\"\" in the context of the previous event where Gavin starts screaming, “get off, get off! I need security, someone is literally chewing through my cables like a rat! Security!”.",
+            "description": "An expression of intense primal fear like \"Gavin is screeching\" in the context of the previous event where Gavin starts screaming, “get off, get off! I need security, someone is literally chewing through my cables like a rat! Security!”.",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 1,
@@ -6998,7 +6998,7 @@
         {
             "id": 1221,
             "name": "Jeff",
-            "description": "Jeff from \"\"Where Is Quarantine\"\".",
+            "description": "Jeff from \"Where Is Quarantine\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 14,
@@ -7718,7 +7718,7 @@
         {
             "id": 486,
             "name": "Looking for answers",
-            "description": "Indications of looking for answers, like \"\"Perhaps he can tell me what you are and where you come from\"\" or \"\"Who found this Mr. Blobby, anyways?\"\".",
+            "description": "Indications of looking for answers, like \"Perhaps he can tell me what you are and where you come from\" or \"Who found this Mr. Blobby, anyways?\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 5,
@@ -8234,7 +8234,7 @@
         {
             "id": 950,
             "name": "Meta reference",
-            "description": "A meta-reference within a thread, anything in-thread meta that isn't captured by other codes Not to be confused with \"\"Babel reference\"\", which is a reference to content in  another thread.",
+            "description": "A meta-reference within a thread, anything in-thread meta that isn't captured by other codes Not to be confused with \"Babel reference\", which is a reference to content in  another thread.",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -8270,7 +8270,7 @@
         {
             "id": 846,
             "name": "Military jargon",
-            "description": "Writing using military jargon, like \"\"Copy that. Over.\"\".",
+            "description": "Writing using military jargon, like \"Copy that. Over.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -8738,7 +8738,7 @@
         {
             "id": 1095,
             "name": "Non-human companions",
-            "description": "Descriptions of animals, plants and objects for company, like \"\"I want to fill the house with hamsters, cacti, barking yorkies, children. Little avatars of the universe, to watch.\"\".",
+            "description": "Descriptions of animals, plants and objects for company, like \"I want to fill the house with hamsters, cacti, barking yorkies, children. Little avatars of the universe, to watch.\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 12,
@@ -8894,7 +8894,7 @@
         {
             "id": 1428,
             "name": "Not wanting to go back",
-            "description": "Refusing to go back to a previous situation, event or place \"\"\"\"Just don't send me back to those awful pages\"\"\"\"\",\".",
+            "description": "Refusing to go back to a previous situation, event or place \"Just don't send me back to those awful pages\"\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -9494,7 +9494,7 @@
         {
             "id": 1504,
             "name": "Pause for effect",
-            "description": " A dramatic break or pause for heightened effect, often in connection with some type of reveal or declaration. \"\"It does.\".",
+            "description": " A dramatic break or pause for heightened effect, often in connection with some type of reveal or declaration. \"It does.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -9674,7 +9674,7 @@
         {
             "id": 484,
             "name": "Plants",
-            "description": "A presence of plants, like \"\"his windows overflow with vines, orchids, lilies ripe with parasitic fruit, lush jungle moss, kudzu spilling forth kudzu like a fractally cresting wave.\"\".",
+            "description": "A presence of plants, like \"his windows overflow with vines, orchids, lilies ripe with parasitic fruit, lush jungle moss, kudzu spilling forth kudzu like a fractally cresting wave.\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 8,
@@ -9698,7 +9698,7 @@
         {
             "id": 159,
             "name": "Playful capitalization",
-            "description": "Using capitalisation as a descriptive and emotional method, ex \"\"Go and talk and process and Find Yourself.\".",
+            "description": "Using capitalisation as a descriptive and emotional method, ex \"Go and talk and process and Find Yourself.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -9986,7 +9986,7 @@
         {
             "id": 428,
             "name": "Preparing to move on",
-            "description": "Making remarks that indicate that someone is preparing to move on, for example \"\"I am so tired of this town\"\" or \"\"I will miss you\"\".",
+            "description": "Making remarks that indicate that someone is preparing to move on, for example \"I am so tired of this town\" or \"I will miss you\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 7,
@@ -10418,7 +10418,7 @@
         {
             "id": 439,
             "name": "Recursion",
-            "description": "Descriptions of something containing itself or another instance to itself, like a door leading to the same room as you left, an \"\"unveiling that needs to be unveiled\"\" or \"\"kudzu spilling forth kudzu\"\".",
+            "description": "Descriptions of something containing itself or another instance to itself, like a door leading to the same room as you left, an \"unveiling that needs to be unveiled\" or \"kudzu spilling forth kudzu\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 2,
@@ -10526,7 +10526,7 @@
         {
             "id": 1055,
             "name": "Relation-as-identity",
-            "description": "Describing a relation between two separate identities as an identity in itself, e.g \"\"brangelina\"\".",
+            "description": "Describing a relation between two separate identities as an identity in itself, e.g \"brangelina\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -10682,7 +10682,7 @@
         {
             "id": 1415,
             "name": "Revelation to others",
-            "description": "Revealing something to another character, that has been previously known by the reader - different from Explanatory reveal which is when it is not known to the reader \"\"she suddenly told him everything\"\".",
+            "description": "Revealing something to another character, that has been previously known by the reader - different from Explanatory reveal which is when it is not known to the reader \"she suddenly told him everything\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -12074,7 +12074,7 @@
         {
             "id": 728,
             "name": "Starvation",
-            "description": "Lacking food, feeling intense hunger, not just as in \"\"I missed lunch\"\" but as in \"\"I haven't eaten for many weeks.\"\".",
+            "description": "Lacking food, feeling intense hunger, not just as in \"I missed lunch\" but as in \"I haven't eaten for many weeks.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 2,
@@ -12314,7 +12314,7 @@
         {
             "id": 710,
             "name": "Stuck in time",
-            "description": "Being stuck in time, both as an explicit figure of speech and as an actual perceived event. Example: \"\"the hourglasses just stopped in the middle, everyone around them is moving but they are sitting still\"\".",
+            "description": "Being stuck in time, both as an explicit figure of speech and as an actual perceived event. Example: \"the hourglasses just stopped in the middle, everyone around them is moving but they are sitting still\".",
             "creator_id": 5,
             "ancestry": "",
             "annotations_count": 1,
@@ -12338,7 +12338,7 @@
         {
             "id": 149,
             "name": "Sudden narrative reveal ",
-            "description": "- a sudden increase of narrative, a sudden reveal \"\"I need to focus. Where are my pills?\"\".",
+            "description": "- a sudden increase of narrative, a sudden reveal \"I need to focus. Where are my pills?\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 2,
@@ -12374,7 +12374,7 @@
         {
             "id": 347,
             "name": "Sudden second person",
-            "description": "A sudden use of the second person, sudden mention of \"\"you\"\".",
+            "description": "A sudden use of the second person, sudden mention of \"you\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 2,
@@ -12854,7 +12854,7 @@
         {
             "id": 1429,
             "name": "Text meta play",
-            "description": "Meta play with the text itself, eg: \"\"F---ed? You mean fucked?\"\" Rump asked.",
+            "description": "Meta play with the text itself, eg: \"F---ed? You mean fucked?\" Rump asked.",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -12866,7 +12866,7 @@
         {
             "id": 363,
             "name": "Text singing",
-            "description": "Written singing, e.g. \"\"na na na na na na na\"\" or another text that is clearly intended as a song.",
+            "description": "Written singing, e.g. \"na na na na na na na\" or another text that is clearly intended as a song.",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 3,
@@ -12938,7 +12938,7 @@
         {
             "id": 1021,
             "name": "The forest",
-            "description": "The defined but non-specific forest, you know that forest, any forest that isn't referred to as anything else than \"\"the forest\"\".",
+            "description": "The defined but non-specific forest, you know that forest, any forest that isn't referred to as anything else than \"the forest\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 4,
@@ -13118,7 +13118,7 @@
         {
             "id": 836,
             "name": "The real world",
-            "description": "Allusions to the abstract concept of a real world existing outside the perceived \"\"unreal world\"\".",
+            "description": "Allusions to the abstract concept of a real world existing outside the perceived \"unreal world\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 2,
@@ -13274,7 +13274,7 @@
         {
             "id": 1369,
             "name": "Time-jump in narrative",
-            "description": "A sudden jump in time in the narrative, e.g: \"\"And so for a decade, Rumples spent his days\"\".",
+            "description": "A sudden jump in time in the narrative, e.g: \"And so for a decade, Rumples spent his days\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -13574,7 +13574,7 @@
         {
             "id": 1302,
             "name": "Trying to process",
-            "description": "Attempting to understand something \"\"She was trying to process the happenings of her very brief and bizarre morning.\"\".",
+            "description": "Attempting to understand something \"She was trying to process the happenings of her very brief and bizarre morning.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 2,
@@ -13622,7 +13622,7 @@
         {
             "id": 1441,
             "name": "Uncertain of self",
-            "description": "Lack of certainty of who one is, of who I am, who am I? \"\"Rumpelstilskin was a bit unsure of his identity.\"\".",
+            "description": "Lack of certainty of who one is, of who I am, who am I? \"Rumpelstilskin was a bit unsure of his identity.\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -13790,7 +13790,7 @@
         {
             "id": 150,
             "name": "Unknown other agency",
-            "description": "Another agency as perceived by the main agency, \"\"there is something at work here\"\", must be implied by the main agency or \"\"narrator\".",
+            "description": "Another agency as perceived by the main agency, \"there is something at work here\", must be implied by the main agency or \"narrator\".",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 2,
@@ -14462,7 +14462,7 @@
         {
             "id": 1366,
             "name": "Writer character interaction",
-            "description": "The writer getting an active voice vis-à-vis the characters, to describe them as stupid or smart. Only when there's an explicit \"\"non-character\"\" voice appearing.",
+            "description": "The writer getting an active voice vis-à-vis the characters, to describe them as stupid or smart. Only when there's an explicit \"non-character\" voice appearing.",
             "creator_id": 4,
             "ancestry": "",
             "annotations_count": 1,
@@ -14558,7 +14558,7 @@
     {
         "id": 1092,
         "name": "Zeldas Guest",
-        "description": "The guest who lives with Zelda in \"\"Everything that happened to me that spring happened to me privately\"\".",
+        "description": "The guest who lives with Zelda in \"Everything that happened to me that spring happened to me privately\".",
         "creator_id": 5,
         "ancestry": "",
         "annotations_count": 11,
